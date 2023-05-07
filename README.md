@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saif Ullah</h1>
 <h3 align="center">A passionate full-stack web developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Resolve Broken links on Wix Store](https://github.com/saifullah0317/BrokenLinksWixStore)
-
 - 👨‍💻 All of my projects are available at [https://portfolio-saifullaharshad999-gmailcom.vercel.app/](https://portfolio-saifullaharshad999-gmailcom.vercel.app/)
 
 - 📫 How to reach me **saifullaharshad999@gmail.com**

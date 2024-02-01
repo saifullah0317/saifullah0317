@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saif Ullah</h1>
 <h3 align="center">A passionate full-stack web developer from Pakistan</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-saifullaharshad999-gmailcom.vercel.app/](https://portfolio-saifullaharshad999-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-saifullaharshad.vercel.app/](https://portfolio-saifullaharshad.vercel.app/)
 
 - 📫 How to reach me **saifullaharshad999@gmail.com**
 
-- 📄 Know about my experiences [https://my-resources-saifullaharshad999-gmailcom.vercel.app/static/Resume.pdf](https://my-resources-saifullaharshad999-gmailcom.vercel.app/static/Resume.pdf)
+- 📄 Know about my experiences [https://my-resources-saifullaharshad.vercel.app/static/Resume.pdf](https://my-resources-saifullaharshad.vercel.app/static/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
